@@ -59,6 +59,22 @@ u-golden-heron-44-fortune-in-a-pot-ded981e9-transcripts.tar.gz`
 - At-submission checks (repo_public, repo_owner, repo_created_after_open,
   commit_in_repo, duplicate_snapshot) will be decided at submit time.
 
+## Repo — DONE (update 2026-11-24 ~17:35 WIB)
+
+- GitHub rate limit lifted on retry attempt 7 (~30 min after first
+  refusal): repo jekglory/u-golden-heron-44-fortune-in-a-pot-ded981e9
+  created 2026-11-24T10:34:07Z (after the 09:34:50Z opening), PUBLIC,
+  MIT license detected.
+- Commit 5c2451e006468e843cb4016b27afaa6a04d18c89 pushed; `git ls-remote
+  origin HEAD` matches local HEAD.
+- Repo About set + verified: description, homepage
+  https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9,
+  topics makefun, ai-agents, bounties, growth.
+
+Remaining for the parent: re-bundle with --muse-usage (step 2 in the
+handoff above), re-check (must be 0 FAIL), submit, record submission
+ID + claim code in submissions-2026-11-13.md only.
+
 ## Handoff for the parent (top-level agent)
 
 1. **Repo first:** GitHub repo creation is rate-limited
